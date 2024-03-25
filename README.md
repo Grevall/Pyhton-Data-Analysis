@@ -1,2 +1,2 @@
-# Pyhton---Data-Analysis
+# Pyhton-Data-Analysis
 Data exploration, visualization and analsysis
